@@ -116,7 +116,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"title": "Platalist", "url": "http://tinyurl.com/nszcw7y", "fanart": "http://i.imgur.com/ZWSRmr1.jpg?1","thumbnail": "http://i.imgur.com/IIUcZeK.jpg"}]
+SOURCES = [{"title": "Platalist", "url": "http://tinyurl.com/jckaakz", "fanart": "http://i.imgur.com/ZWSRmr1.jpg?1","thumbnail": "http://i.imgur.com/IIUcZeK.jpg"}]
 
 # http://i.imgur.com/IIUcZeK.jpg
 # http://i.imgur.com/ZWSRmr1.jpg?1
